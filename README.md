@@ -1,1 +1,1 @@
-# everydayproject.github.io
+The Everyday Project Foundation website.
