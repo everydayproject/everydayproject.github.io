@@ -7,6 +7,24 @@ body {
     padding-right: 20%;
 }
 
+@media only screen and (min-width: 601px) {
+    .font-change {
+        font-size: 33px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .font-change {
+        font-size: 27px;
+    }
+    .extra {
+        padding-top: 1em;
+    }
+    .extra2 {
+        padding-top: 0.5em;
+    }
+}
+
 a {
     color: goldenrod;
 }
